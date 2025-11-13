@@ -1,0 +1,23 @@
+{
+  "name": "tech-bihar-website",
+  "version": "1.0.0",
+  "description": "Tech Bihar - IT Solutions & Technology Website",
+  "main": "index-one-page.html",
+  "scripts": {
+    "start": "npx http-server -p 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "IT Solutions",
+    "Technology",
+    "Web Development",
+    "Cybersecurity",
+    "Cloud Services"
+  ],
+  "author": "Tech Bihar",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
